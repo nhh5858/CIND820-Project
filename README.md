@@ -16,4 +16,4 @@ The dataset which will be employed is available in the following link and can on
 
 https://www.kaggle.com/uciml/caravan-insurance-challenge/download
 
-This dataset contains both socio-demographic information and insurance product usage derived based on postal codes and it is divided into 5822 rows of a training dataset and 4000 rows of a test dataset. 
+This dataset contains both socio-demographic information and insurance product usage derived based on postal codes.
